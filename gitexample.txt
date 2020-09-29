@@ -1,0 +1,23 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8B5-9C72
+
+ Directory of C:\Users\abhi adhuria\Desktop\Courses
+
+09/28/2020  10:05 PM    <DIR>          .
+09/28/2020  10:05 PM    <DIR>          ..
+09/28/2020  10:04 PM    <DIR>          .git
+02/16/2020  01:01 AM            16,981 Amazon AWS.docx
+05/09/2020  01:41 PM    <DIR>          Course Notes
+01/12/2020  02:21 AM        26,746,157 Course Notes.zip
+01/18/2020  11:48 PM               215 credentials.csv
+01/16/2020  10:06 PM            14,245 data analystics.docx
+09/28/2020  10:05 PM                 0 gitexample.txt
+01/12/2020  04:27 PM    <DIR>          Lectures
+01/12/2020  02:29 AM       618,584,285 Lectures.zip
+02/09/2020  06:21 PM           184,909 S3 Storage Comparision.png
+01/30/2020  08:35 PM            10,771 schedule for study.xlsx
+01/18/2020  11:14 PM             1,657 virtual mfa authenticator.png
+01/12/2020  04:30 PM               162 ~$azon AWS.docx
+01/12/2020  02:44 AM            12,848 ~WRL0003.tmp
+              11 File(s)    645,572,230 bytes
+               5 Dir(s)  180,597,051,392 bytes free
