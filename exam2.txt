@@ -1,0 +1,6 @@
+~$azon\ AWS.docx   data\ analystics.docx  Lectures.zip
+~WRL0003.tmp	   desktop.ini		  S3\ Storage\ Comparision.png
+Amazon\ AWS.docx   exam1.txt		  schedule\ for\ study.xlsx
+Course\ Notes	   exam2.txt		  virtual\ mfa\ authenticator.png
+Course\ Notes.zip  gitexample.txt
+credentials.csv    Lectures
